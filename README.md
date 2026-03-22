@@ -197,6 +197,7 @@ Some interesting findings from the analysis:
 
 Possible extensions for this project:
 
+* using weighted cost functiona and weighted gradient
 * Train additional models (Random Forest, XGBoost)
 * Add studio-level features (studio success rate)
 * Build an interactive **Streamlit web app**
@@ -209,8 +210,3 @@ Possible extensions for this project:
 This project demonstrates how **machine learning can analyze audience behavior and metadata to predict anime success**.
 
 By combining exploratory data analysis, feature engineering, and a custom logistic regression implementation, the model provides insights into what factors influence highly rated anime.
-
----
-# Future Improvements
-
-using weighted cost functiona and weighted gradient
